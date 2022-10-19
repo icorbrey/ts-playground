@@ -1,0 +1,15 @@
+{
+  "name": "ts-playground",
+  "version": "0.0.1",
+  "description": "A playground for TypeScript shenanigans",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/icorbrey/ts-playground"
+  },
+  "author": "Isaac Corbrey <icorbrey@gmail.com>",
+  "license": "GPL-3.0-or-later"
+}
