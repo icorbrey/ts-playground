@@ -11,5 +11,8 @@
     "url": "github.com/icorbrey/ts-playground"
   },
   "author": "Isaac Corbrey <icorbrey@gmail.com>",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
